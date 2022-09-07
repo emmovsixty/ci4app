@@ -1,0 +1,13 @@
+.sampul {
+  width: 100px;
+}
+.sampul-card {
+  width: 50%;
+  margin: auto;
+}
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
+a {
+  text-decoration: none;
+}
