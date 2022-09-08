@@ -9,7 +9,9 @@ class Login extends BaseController
     {
         return view('user/login');
     }
-}   
 
-
-?>
+    public function register()
+    {
+        $username = $this->request->getVar('username');
+    }
+}

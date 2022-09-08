@@ -10,5 +10,3 @@ class Register extends BaseController
         return view('user/register');
     }
 }
-
-?>
